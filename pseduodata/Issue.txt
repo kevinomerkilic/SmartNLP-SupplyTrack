@@ -1,0 +1,79 @@
+Laptop,Issue
+Dell XPS 13,Fingerprint scanner is malfunctioning.
+Dell G5 15 SE, Experiencing issues with the driver AMD Radeon Graphics Driver.
+Asus ROG Zephyrus M15, Experiencing issues with the driver Realtek Ethernet Driver.
+HP Pavilion, Having issues and not functioning well when playing Fortnite with its NVIDIA GeForce Graphics Driver.
+Acer Predator Triton 500, Sound system is having issues with its Dolby Audio Driver.
+Lenovo Legion 5i, Experiencing issues with the driver Intel Wireless-AC 9560 Wi-Fi Driver.
+Dell Inspiron 15 7000, Having issues with webcam driver.
+HP Envy x360, Experiencing issues with the driver Synaptics Touchpad Driver.
+Lenovo IdeaPad Flex 5, Having issues and not functioning well with its AMD Ryzen Processor Driver.
+Microsoft Surface Laptop 4, Experiencing issues with its camera driver.
+Asus TUF Gaming A15, Having issues and not functioning well when playing Apex Legends with its NVIDIA GeForce Graphics Driver.
+HP EliteBook 840 G7, Sound system is having issues with its Bang & Olufsen Audio Driver.
+Dell Precision 5560, Experiencing issues with the driver Intel UHD Graphics Driver.
+Lenovo Yoga C740, Experiencing issues with the driver Realtek Bluetooth Driver.
+Acer Nitro 5, Having issues and not functioning well when playing Call of Duty with its AMD Radeon Graphics Driver.
+Asus ROG Strix G15, Experiencing issues with the driver Realtek Audio Driver.
+HP Spectre x360, Having issues and not functioning well with its Intel HD Graphics Driver.
+Dell XPS 15 9500, Experiencing issues with the driver Intel Wi-Fi 6 AX201 Driver.
+Lenovo ThinkPad X1 Carbon, Experiencing issues with the driver Intel Thunderbolt 3 Driver.
+Microsoft Surface Pro 7, Having issues and not functioning well when playing Minecraft with its Intel Iris Plus Graphics Driver.
+Acer Swift 3, Experiencing issues with the driver Realtek Audio Driver.
+Asus VivoBook S15, Experiencing issues with the driver NVIDIA GeForce Graphics Driver.
+HP ZBook Firefly G7, Experiencing issues with the driver Intel Bluetooth Driver.
+Dell Latitude 7420, Sound system is having issues with its Waves MaxxAudio Pro Driver.
+Lenovo ThinkBook 14, Experiencing issues with the driver Realtek Ethernet Driver.
+HP ProBook 450 G8, Having issues and not functioning well with its Intel UHD Graphics Driver.
+Acer Chromebook Spin 713, Experiencing issues with the driver Intel Wi-Fi 6 AX201 Driver.
+Asus ZenBook Flip S, Experiencing issues with the driver Realtek Audio Driver.
+Dell Alienware m15 R4, Having issues and not functioning well with its NVIDIA GeForce Graphics Driver.
+Lenovo Legion 7i, Experiencing issues with the driver Realtek Audio Driver.
+HP Envy 13, Experiencing issues with the driver Intel Graphics Driver.
+Microsoft Surface Laptop Go, Having issues and not functioning well when playing Among Us with its Intel UHD Graphics Driver.
+Asus ROG Zephyrus G15, Experiencing issues with the driver NVIDIA GeForce Graphics Driver.
+Dell Inspiron 14 5000, Experiencing issues with the driver Intel Bluetooth Driver.
+Lenovo IdeaPad 5, Having issues and not functioning well with its Realtek Audio Driver.
+HP Pavilion x360, Experiencing issues with the driver Intel Graphics Driver.
+Acer Aspire 5, Experiencing issues with the driver Realtek Audio Driver.
+Asus Chromebook Flip C434, Experiencing issues with the driver Intel Wi-Fi 6 AX200 Driver.
+Dell G3 15, Having issues and not functioning well when playing Rainbow Six Siege with its NVIDIA GeForce
+Dell XPS 13, Touchpad not responding well.
+Dell G5 15 SE, Experiencing issues with the driver NVIDIA GeForce Graphics Driver.
+Asus ROG Zephyrus M15, Sound system is having issues with its Realtek Audio Driver.
+HP Pavilion, Experiencing issues with the driver Intel UHD Graphics Driver.
+Acer Predator Triton 500, Fingerprint scanner is malfunctioning.
+Lenovo Legion 5i, Experiencing issues with the driver Intel Wireless-AC 9560 Wi-Fi Driver.
+Dell Inspiron 15 7000, Display is flickering.
+HP Envy x360, Having issues and not functioning well with its AMD Ryzen Processor Driver.
+Lenovo IdeaPad Flex 5, Sound system is having issues with its Dolby Audio Driver.
+Microsoft Surface Laptop 4, Experiencing issues with the driver Realtek Audio Driver.
+Asus TUF Gaming A15, Keyboard backlight not working properly.
+HP EliteBook 840 G7, Experiencing issues with the driver Intel Bluetooth Driver.
+Dell Precision 5560, Experiencing issues with the driver NVIDIA Quadro Graphics Driver.
+Lenovo Yoga C740, Experiencing issues with the driver Intel Graphics Driver.
+Acer Nitro 5, Having issues and not functioning well when playing Valorant with its AMD Radeon Graphics Driver.
+Asus ROG Strix G15, Battery life is shorter than expected.
+HP Spectre x360, Having issues and not functioning well with its Intel Wireless-AC 9560 Wi-Fi Driver.
+Dell XPS 15 9500, Experiencing issues with the driver Realtek Audio Driver.
+Lenovo ThinkPad X1 Carbon, Experiencing issues with the driver Intel Graphics Driver.
+Microsoft Surface Pro 7, Having issues and not functioning well when using Microsoft Teams with its Intel UHD Graphics Driver.
+Acer Swift 3, Experiencing issues with the driver AMD Radeon Graphics Driver.
+Asus VivoBook S15, Webcam not working properly.
+HP ZBook Firefly G7, Experiencing issues with the driver NVIDIA Quadro Graphics Driver.
+Dell Latitude 7420, Experiencing issues with the driver Intel UHD Graphics Driver.
+Lenovo ThinkBook 14, Battery not charging properly.
+HP ProBook 450 G8, Having issues and not functioning well with its Intel Wireless-AC 9560 Wi-Fi Driver.
+Acer Chromebook Spin 713, Experiencing issues with the driver Intel Wi-Fi 6 AX200 Driver.
+Asus ZenBook Flip S, Experiencing issues with the driver Realtek Bluetooth Driver.
+Dell Alienware m15 R4, Experiencing issues with the driver NVIDIA GeForce Graphics Driver.
+Lenovo Legion 7i, Sound system is having issues with its Bang & Olufsen Audio Driver.
+HP Envy 13, Experiencing issues with the driver Synaptics Touchpad Driver.
+Microsoft Surface Laptop Go, Having issues and not functioning well when using Zoom with its Intel UHD Graphics Driver.
+Asus ROG Zephyrus G15, Experiencing issues with the driver AMD Radeon Graphics Driver.
+Dell Inspiron 14 5000, Experiencing issues with the driver AMD Radeon Graphics Driver.
+Lenovo IdeaPad 5, Experiencing issues with the driver Realtek Ethernet Driver.
+HP Pavilion x360, Battery not charging properly.
+Acer Aspire 5, Experiencing issues with the driver Intel Graphics Driver.
+Asus Chromebook Flip C434, Experiencing issues with the driver Intel Wi-Fi 6 AX200 Driver.
+Dell G3 15, Sound system is having issues with its Waves Max

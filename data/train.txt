@@ -1,0 +1,60 @@
+Dell XPS 13 is experiencing a malfunctioning fingerprint scanner, and the touchpad is not responding well.
+Dell G5 15 SE is experiencing issues with the driver AMD Radeon Graphics Driver and NVIDIA GeForce Graphics Driver.
+Asus ROG Zephyrus M15 is experiencing issues with the driver Realtek Ethernet Driver and sound system.
+HP Pavilion is having issues and not functioning well when playing Fortnite with its NVIDIA GeForce Graphics Driver, and also experiencing issues with the driver Intel UHD Graphics Driver.
+Acer Predator Triton 500 has issues with its Dolby Audio Driver and a malfunctioning fingerprint scanner. 
+Lenovo Legion 5i is experiencing issues with the driver Intel Wireless-AC 9560 Wi-Fi Driver and sound system.
+Dell Inspiron 15 7000 has a flickering display and issues with the webcam driver.
+HP Envy x360 is experiencing issues with the driver Synaptics Touchpad Driver and AMD Ryzen Processor Driver.
+Lenovo IdeaPad Flex 5 has sound system issues with its Dolby Audio Driver and is not functioning well.
+Microsoft Surface Laptop 4 is experiencing issues with its camera driver and Realtek Audio Driver.
+Asus TUF Gaming A15 is having issues and not functioning well when playing Apex Legends with its NVIDIA GeForce Graphics Driver, and its keyboard backlight is not working properly.
+HP EliteBook 840 G7 is experiencing issues with the driver Intel Bluetooth Driver and Bang & Olufsen Audio Driver.
+Dell Precision 5560 is experiencing issues with the driver Intel UHD Graphics Driver and NVIDIA Quadro Graphics Driver.
+Lenovo Yoga C740 is experiencing issues with the driver Realtek Bluetooth Driver and Intel Graphics Driver. 
+Acer Nitro 5 is having issues and not functioning well when playing Call of Duty with its AMD Radeon Graphics Driver and Valorant with its AMD Radeon Graphics Driver.
+Asus ROG Strix G15 is experiencing issues with the driver Realtek Audio Driver, and its battery life is shorter than expected. 
+HP Spectre x360 is having issues and not functioning well with its Intel HD Graphics Driver and Intel Wireless-AC 9560 Wi-Fi Driver.
+Dell XPS 15 9500 is experiencing issues with the driver Intel Wi-Fi 6 AX201 Driver and Realtek Audio Driver.
+Lenovo ThinkPad X1 Carbon is experiencing issues with the driver Intel Thunderbolt 3 Driver and Intel Graphics Driver.
+Microsoft Surface Pro 7 is having issues and not functioning well when playing Minecraft and using Microsoft Teams with its Intel Iris Plus Graphics Driver and Intel UHD Graphics Driver, respectively.
+Acer Swift 3 is experiencing issues with the driver Realtek Audio Driver and AMD Radeon Graphics Driver.
+Asus VivoBook S15 is experiencing issues with the driver NVIDIA GeForce Graphics Driver and its webcam.
+HP ZBook Firefly G7 is experiencing issues with the driver Intel Bluetooth Driver and NVIDIA Quadro Graphics Driver.
+Dell Latitude 7420 is experiencing issues with the driver Waves MaxxAudio Pro Driver and Intel UHD Graphics Driver.
+Lenovo ThinkBook 14 has a battery not charging properly and is experiencing issues with the driver Realtek Ethernet Driver.
+HP ProBook 450 G8 is having issues and not functioning well with its Intel UHD Graphics Driver and Intel Wireless-AC 9560 Wi-Fi Driver.
+Acer Chromebook Spin 713 is experiencing issues with the driver Intel Wi-Fi 6 AX201 Driver and Intel Wi-Fi 6 AX200 Driver.
+Asus ZenBook Flip S is experiencing issues with the driver Realtek Audio Driver and Realtek Bluetooth Driver.
+Dell Alienware m15 R4 is having issues and not functioning well with its NVIDIA GeForce Graphics Driver and NVIDIA Quadro Graphics Driver.
+Lenovo Legion 7i is experiencing issues with the driver Realtek Audio Driver and Bang & Olufsen Audio Driver, respectively.
+HP Omen 15 is experiencing issues with its NVIDIA GeForce Graphics Driver and Intel Wi-Fi 6 AX201 Driver.
+Dell G7 17 is having issues and not functioning well when playing Cyberpunk 2077 with its NVIDIA GeForce Graphics Driver, and is also experiencing issues with the driver Intel Wi-Fi 6 AX201 Driver.
+Asus ROG Zephyrus G14 is experiencing issues with the driver NVIDIA GeForce Graphics Driver and its keyboard backlight.
+HP Pavilion x360 is having issues and not functioning well when using Microsoft Edge with its Intel Graphics Driver, and is also experiencing issues with the driver Realtek Audio Driver.
+Lenovo ThinkPad X1 Yoga is experiencing issues with the driver Intel Graphics Driver and Intel Thunderbolt 3 Driver.
+Acer Aspire 5 is experiencing issues with the driver Realtek Audio Driver and Intel Graphics Driver.
+Asus ROG Strix Scar 17 is having issues and not functioning well when playing Fortnite with its NVIDIA GeForce Graphics Driver and also experiencing issues with the driver Intel Wi-Fi 6 AX201 Driver.
+HP Envy 13 is experiencing issues with the driver NVIDIA GeForce Graphics Driver and Realtek Audio Driver.
+Dell XPS 17 is experiencing issues with the driver NVIDIA GeForce Graphics Driver and Realtek Audio Driver.
+Lenovo Yoga 9i is having issues and not functioning well when using Zoom with its Intel Graphics Driver and Intel Wi-Fi 6 AX201 Driver, respectively.
+Asus TUF Dash F15 is experiencing issues with the driver NVIDIA GeForce Graphics Driver and Realtek Audio Driver.
+HP Spectre x360 14 is having issues and not functioning well with its Intel Wi-Fi 6 AX201 Driver and Intel Thunderbolt 3 Driver.
+Dell Inspiron 14 5000 is experiencing issues with the driver Intel UHD Graphics Driver and Realtek Audio Driver.
+Lenovo ThinkPad X12 Detachable is experiencing issues with the driver Intel Graphics Driver and Realtek Audio Driver.
+Acer Predator Helios 300 is having issues and not functioning well when playing Assassin's Creed Valhalla with its NVIDIA GeForce Graphics Driver and also experiencing issues with the driver Realtek Audio Driver.
+Asus ZenBook 14 is experiencing issues with the driver NVIDIA GeForce Graphics Driver and Realtek Audio Driver.
+HP Elite Dragonfly is having issues and not functioning well with its Intel Wi-Fi 6 AX200 Driver and Bang & Olufsen Audio Driver.
+Dell Vostro 15 3500 is experiencing issues with the driver Intel UHD Graphics Driver and Realtek Audio Driver.
+Lenovo IdeaPad Gaming 3 is having issues and not functioning well when playing League of Legends with its NVIDIA GeForce Graphics Driver, and is also experiencing issues with the driver Realtek Audio Driver.
+Acer Aspire 3 is experiencing issues with the driver Realtek Audio Driver and Intel Graphics Driver.
+Asus VivoBook 15 is having issues and not functioning well with its NVIDIA GeForce Graphics Driver and Realtek Audio Driver.
+HP ProBook 440 G8 is experiencing issues with the driver Intel Graphics Driver and Intel Wireless-AC 9560 Wi-Fi Driver.
+Dell Precision 3550 is having issues and not functioning well when using Adobe Premiere Pro with its NVIDIA Quadro Graphics Driver, and is also experiencing issues with the driver Realtek Audio Driver.
+Lenovo Legion 5 is experiencing issues with the driver NVIDIA GeForce Graphics Driver and Realtek Audio Driver.
+Acer Spin 5 is having issues and not functioning well when using Microsoft Teams with its Intel UHD Graphics Driver and Intel Wi-Fi 6 AX201 Driver, respectively.
+Asus ROG Zephyrus S17 is experiencing issues with the driver NVIDIA GeForce Graphics Driver and Realtek Audio Driver.
+HP Pavilion Gaming 15 is having issues and not functioning well when playing Valorant with its NVIDIA GeForce Graphics Driver, and is also experiencing issues with the driver Realtek Audio Driver.
+Dell Inspiron 13 7000 is experiencing issues with the driver Intel UHD Graphics Driver and Realtek Audio Driver.
+Lenovo ThinkCentre M90n Nano is having issues and not functioning well with its Intel Wi-Fi 6 AX201 Driver and Realtek Audio Driver.
+Acer Nitro 7 is experiencing issues with the driver NVIDIA GeForce Graphics Driver and Realtek Audio Driver.
