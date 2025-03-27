@@ -2,7 +2,6 @@
 
 # Automating Customer Relationship Management for Faulty Device Components with Natural Language Processing: A Vendor Solution
 
-Tristram Dacayan, Jose Serra Jr., Liam Healy
 
 **I. Introduction**
 
